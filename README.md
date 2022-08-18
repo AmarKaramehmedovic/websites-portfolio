@@ -8,6 +8,6 @@
 [incolla.hr](https://incolla.hr/) (rebuilding)<br/>
 [mf-gradevinar.hr](https://mf-gradevinar.hr/)<br/>
 [djecja-igralista.eu](https://djecja-igralista.eu/)<br/>
-[roninsport.hr](http://roninsport.hr/) (rebuilding)<br/>
+[roninsport.hr](http://roninsport.hr/)<br/>
 [kinokino.hr](https://kinokino.hr/) (maintenance)<br/>
 [zff.hr](https://zff.hr/) (maintenance)
