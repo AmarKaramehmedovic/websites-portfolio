@@ -5,7 +5,8 @@
 [efst.streberaj.hr](https://efst.streberaj.hr/)<br/>
 [barfoteka.com](http://barfoteka.com/)<br/>
 [hanaelfood.hr](https://hanaelfood.hr/)<br/>
-[incolla.hr](https://incolla.hr/) (rebuilding)<br/>
+[incolla.hr](https://incolla.hr/)<br/>
+[maricom.hr](https://maricom.hr/)<br/>
 [mf-gradevinar.hr](https://mf-gradevinar.hr/)<br/>
 [djecja-igralista.eu](https://djecja-igralista.eu/)<br/>
 [roninsport.hr](http://roninsport.hr/)<br/>
