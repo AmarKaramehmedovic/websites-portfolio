@@ -11,6 +11,7 @@
 [kinokino.hr](https://kinokino.hr/) (maintenance)<br/>
 [maricom.hr](https://maricom.hr/)<br/>
 [mf-gradevinar.hr](https://mf-gradevinar.hr/)<br/>
+[moduo-group.com](https://moduo-group.com/)<br/>
 [optika-ocalinko.hr](https://optika-ocalinko.hr/) (maintenance, rebuilding)<br/>
 [roninsport.hr](http://roninsport.hr/)<br/>
 [zff.hr](https://zff.hr/) (maintenance)
